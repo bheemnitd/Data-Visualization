@@ -4,7 +4,7 @@
 ## Graph of sin.
 ![sin graph](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/sin_graph.png)
 
-## Graph of doted cos doted.
+## Graph of doted cos.
 ![cos doted graph](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/doted-cos-graph.png)
 
 ## Overlap of two graph sin and cos on same plot.
