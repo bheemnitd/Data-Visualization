@@ -25,7 +25,7 @@
 ## 8. Cluster with grid.
 ![cluster with grid](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/clustered-data-plot.png)
 
-## 9. Big(resized plot).
+## 9. Big(resized) plot.
 ![resized-plot](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/resized-scatter.png)
 
 ## 10. Varible scatter.
