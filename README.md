@@ -31,16 +31,16 @@
 ## 10. Varible scatter.
 ![variable plot](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/different-sized-scatter.png)
 
-## 11. Barchat.
+## 11. Barchart.
 ![barchat-plot](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/barchat.png)
 
-## 12. Barchat comparision.
+## 12. Barchart comparision.
 ![barchat-cmparision](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/download.png)
 
 ## 13. Horizontl graph.
 ![horizontal-barchart](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/horzontal-barchat.png)
 
-## 14. Piechat.
+## 14. Piechart.
 ![pychat](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/pie-chart.png)
 
 ## 15. Exploaded piechart.
