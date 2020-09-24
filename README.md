@@ -37,7 +37,7 @@
 ## 12. Barchart comparision.
 ![barchat-cmparision](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/download.png)
 
-## 13. Horizontl graph.
+## 13. Horizontal graph.
 ![horizontal-barchart](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/horzontal-barchat.png)
 
 ## 14. Piechart.
