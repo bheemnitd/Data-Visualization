@@ -59,7 +59,7 @@
 ![multiple-graph-on same graph](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/multiple-ploat-in-single-graph.png)
 
 ## 20. 3D scatter.
-![3d-scatter](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/3d-cluster.png)
+![3d-scatter](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/3d-scatter.png)
 
 ## 21. 3D Cluster.
 ![3d-cluster](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/3d-cluster.png)
