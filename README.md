@@ -1,5 +1,5 @@
 # Data-Visualization
-Fin the notebook here <a href="https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/MATPLOTLIB.ipynb">notebook</a>
+Fin the notebook here <a href="https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/MATPLOTLIB.ipynb">here</a>
 
 ## 1. Graph of sin.
 ![sin graph](https://github.com/bheemnitd/Data-Visualization-matplotlib/blob/master/sin_graph.png)
